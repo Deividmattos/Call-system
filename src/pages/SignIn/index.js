@@ -1,7 +1,9 @@
+import "./signin.css";
+
 export default function SignIn() {
   return (
-    <div>
-      <h1>Teste</h1>
+    <div className="container-center">
+      <h1>Teste2</h1>
     </div>
   );
 }
